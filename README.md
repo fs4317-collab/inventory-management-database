@@ -40,9 +40,9 @@ Demonstrates checking the inventory for ProductID 14, adding 50 units to the inv
 
 **Screenshots:**
 
-[View Test Case 1 – Before](screenshots/test-case-1-before.png)
+![View Test Case 1 – Before](screenshots/test-case-1-before.png)
 
-[View Test Case 1 – After](screenshots/test-case-1-after.png)
+![View Test Case 1 – After](screenshots/test-case-1-after.png)
 
 ---
 
@@ -52,7 +52,7 @@ Identifies products where the quantity in stock is less than or equal to the def
 
 **Screenshot:**
 
-[View Test Case 2](screenshots/test-case-2.png)
+![View Test Case 2](screenshots/test-case-2.png)
 
 ---
 
@@ -62,7 +62,7 @@ Uses an `INNER JOIN` to retrieve products and their associated suppliers.
 
 **Screenshot:**
 
-[View Test Case 3](screenshots/test-case-3.png)
+![View Test Case 3](screenshots/test-case-3.png)
 
 ---
 
@@ -72,7 +72,7 @@ Uses an `INNER JOIN` to retrieve order information and the products associated w
 
 **Screenshot:**
 
-[View Test Case 4](screenshots/test-case-4.png)
+![View Test Case 4](screenshots/test-case-4.png)
 
 ---
 
@@ -82,7 +82,7 @@ Uses the `LIKE` operator to search for products containing the word **"Oil"** in
 
 **Screenshot:**
 
-[View Test Case 5](screenshots/test-case-5.png)
+![View Test Case 5](screenshots/test-case-5.png)
 
 ---
 
@@ -92,7 +92,7 @@ Uses an `INNER JOIN` to display products along with their current inventory quan
 
 **Screenshot:**
 
-[View Test Case 6](screenshots/test-case-6.png)
+![View Test Case 6](screenshots/test-case-6.png)
 
 ---
 
