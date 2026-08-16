@@ -32,6 +32,18 @@ The `InventoryManagement` database contains six related tables:
 - **Orders** – Stores customer order information.
 - **OrderDetails** – Stores products and quantities associated with orders.
 
+## Database Schema 
+
+Here is a visual representation of the database structure, entities, attributes, and relationships.
+
+It shows how the main entities, Customers, Suppliers, Products, Inventory, Orders, and OrderDetails, are connected. Each entity contains attributes that describe the data stored in that table, while primary keys uniquely identify records and foreign keys establish relationships between entities.
+
+The EER diagram helps demonstrate how inventory, suppliers, products, and customer orders interact while maintaining data organization, consistency, and referential integrity.
+
+**Screenshot:**
+
+![View Database Schema](screenshots/database-schema.png)
+
 ## SQL Test Cases
 
 ### Test Case 1 – Receive Inventory Shipment
